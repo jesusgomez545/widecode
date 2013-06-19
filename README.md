@@ -1,4 +1,4 @@
-widecode
+Widecode
 ========
 
 Code compilation
